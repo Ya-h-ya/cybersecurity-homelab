@@ -25,3 +25,7 @@ The lab consists of:
 - Set **static IP addresses** for all VMs to ensure reliable network connectivity.  
 - Installed and integrated **Wazuh SIEM**, collecting logs from Windows Server, Windows 10 Enterprise, and Ubuntu endpoints.  
 - Simulated a small enterprise environment for **SOC-style monitoring and detection practice**.
+
+## 📊 Screenshots  
+**VM's**
+ ![VM's](screenshots/Virtual Machines.png)  
