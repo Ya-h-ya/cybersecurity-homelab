@@ -28,4 +28,29 @@ The lab consists of:
 
 ## 📊 Screenshots  
 **VM's**
- ![VM's](Screenshots/Virtual-Machines.png)  
+![VM's](Screenshots/Virtual-Machines.png)  
+
+ **Active Directory dashboard**
+![Active Directory](Screenshots/Users.png)
+
+ **VM network setup**
+![VM Network](Screenshots/IP.png)
+
+**Wazuh SIEM dashboard with alerts** 
+![Wazuh SIEM](Screenshots/Wazuh-Agent.png) 
+
+
+## 🎯 Skills Gained  
+- Windows Server administration & **Active Directory** configuration  
+- **SIEM setup and log monitoring** using Wazuh  
+- **Networking fundamentals** (static IPs, VM networking)  
+- Building and managing a **virtual enterprise-style network**  
+- Experience with **incident detection & monitoring workflows**
+
+## 🔗 References  
+- [Wazuh Documentation](https://documentation.wazuh.com)  
+- [Active Directory Overview](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview)
+- [HomeLab Project](https://docs.projectsecurity.io/e101/overview/)
+
+
+
