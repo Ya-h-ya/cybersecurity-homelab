@@ -28,4 +28,4 @@ The lab consists of:
 
 ## 📊 Screenshots  
 **VM's**
- ![VM's](Screenshots/Virtual Machines .png)  
+ ![VM's](Screenshots/Virtual-Machines.png)  
